@@ -2,8 +2,8 @@
 layout: post
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: Tressyu
-date: 2025-7-3
+author: Tres
+date: 2019-08-08
 categories: [Blogging, Demo]
 tags: [typography, blogging, demo]
 pin: true
