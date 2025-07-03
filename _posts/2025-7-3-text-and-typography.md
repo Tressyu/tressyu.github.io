@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: Tres
+author: Tressyu
 date: 2019-08-08 {{ site.time | date: "%a, %b %d, %y, %r" }}
 categories: [Blogging, Demo]
 tags: [typography]
