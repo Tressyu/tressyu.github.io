@@ -1,3 +1,12 @@
+# Personal Blog
+This is my personal blog that uses jekyll+ the Chirpy Theme.
+More info about the Chirpy Theme can be found below.(will keep that information for the time being)
+
+this is also  where I share my journey — from coding projects to thoughts, experiments, and things I find cool along the way.
+
+Thanks for stopping by!
+
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
