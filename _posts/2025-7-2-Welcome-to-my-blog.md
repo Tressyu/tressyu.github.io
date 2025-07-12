@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my blog
 description: First blog welcome message.
-author: Tress
+author: <author_id>
 date: 2025-7-2
 categories: [Blogging]
 tags: [blogging]
