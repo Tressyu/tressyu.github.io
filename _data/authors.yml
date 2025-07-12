@@ -1,4 +1,8 @@
-Tressy:
-name: Tressyu yuya
-twitter:
-url: https://github.com/Tressyu
+<author_id>:
+  name: Tressyu yuya
+  twitter: <twitter_of_author>
+  url: https://github.com/Tressyu
+
+---
+author: <author_id>                     # for single entry
+---
