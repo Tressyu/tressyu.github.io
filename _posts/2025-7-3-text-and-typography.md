@@ -2,7 +2,7 @@
 layout: post
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: Tres
+author: <author_id>
 date: 2025-7-3
 categories: [Blogging, Demo]
 tags: [typography, blogging, demo]
